@@ -7,4 +7,6 @@
 
 ---
 
-### - [homework 3](#) [coming soon]
+### HOMEWORK 2
+### - [codepen](https://codepen.io/warriorkozak/full/ExbZwEW) [code]
+### - [codepen](https://codepen.io/warriorkozak/pen/ExbZwEW) [preview]
