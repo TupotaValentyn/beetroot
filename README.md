@@ -7,4 +7,4 @@
 
 ---
 
-###- [homework 3](#) [coming soon]
+### - [homework 3](#) [coming soon]
