@@ -8,5 +8,5 @@
 ---
 
 ### HOMEWORK 3
-### - [codepen](https://codepen.io/warriorkozak/full/ExbZwEW) [code]
-### - [codepen](https://codepen.io/warriorkozak/pen/ExbZwEW) [preview]
+### - [codepen](https://codepen.io/warriorkozak/full/ExbZwEW) [preview]
+### - [codepen](https://codepen.io/warriorkozak/pen/ExbZwEW) [code]
